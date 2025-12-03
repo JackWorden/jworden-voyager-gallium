@@ -7,3 +7,8 @@ SPACE_CADET_ENABLE = no
 COMBO_ENABLE = yes
 POINTING_DEVICE_ENABLE = yes
 POINTING_DEVICE_DRIVER = navigator_trackball
+
+
+
+# Custom QMK here
+KEY_OVERRIDE_ENABLE = yes
